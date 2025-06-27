@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 **Model**               **Accuracy**        **F1 Score** 
 Random Forest              74.2%               72.2%    
